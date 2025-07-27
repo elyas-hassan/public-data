@@ -1,3 +1,4 @@
 # public-data
 
-here is all public data for the users to view or copy if needed 
+This repository contains referral codes, access tokens for partner programs, and bonus surveys used in our platform.  
+Feel free to explore or contribute new ones via pull requests.
